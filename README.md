@@ -1,4 +1,4 @@
-## Frontend_Tindev
+## Instarocket_Frontend
 Aplicação desenvolvida na 7ª Semana Omnistack da <a href="https://rocketseat.com.br" target="_blank"> Rocketseat</a>.
 Nesta Semana Omnistack foi desenvolvida uma réplica do Instagram, a mesma permite a inclusão de um post e também que o usuário curta os posts.
  
