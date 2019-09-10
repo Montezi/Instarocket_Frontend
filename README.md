@@ -3,7 +3,7 @@ Aplicação desenvolvida na 7ª Semana Omnistack da <a href="https://rocketseat.
 Nesta Semana Omnistack foi desenvolvida uma réplica do Instagram, a mesma permite a inclusão de um post e também que o usuário curta os posts.
  
 
-![Tindev Web Demo](tindev_web.gif)
+![Instarocket Web Demo](Instarocket_web.gif)
 
 
 # Tecnologias Utilizadas :
